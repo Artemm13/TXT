@@ -1,1 +1,5 @@
-
+Favorite movie: Matrix
+Favourite show: Friends
+Favourite food: Kebab
+Favourite time of year: Autumn
+Country you would like to visit: Netherlands
