@@ -1,0 +1,8 @@
+Skills:
+- Linux terminal;
+- GitHub;
+- Postman;
+- SQL;
+- DevTools;
+- Mobile testing;
+- Fidler and Charle.
