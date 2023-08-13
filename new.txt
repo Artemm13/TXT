@@ -1,0 +1,4 @@
+Name: Mishchenko Artem
+Age: 37
+Namber of pets: 1
+Future salary: $4000	
